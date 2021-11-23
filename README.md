@@ -1,4 +1,9 @@
-## Hi! 👋😄 you're welcome
+## Hi!😄 you're welcome
+
+## Hi! <img src="https://raw.githubusercontent.com/agustindangelo/agustindangelo/master/imgs/wave.gif" width="30px">😄 you're welcome
+
+[![Linkedin Badge](https://img.shields.io/badge/-agustindangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustindangelo/)](https://www.linkedin.com/in/agustindangelo/)
+[![Gmail Badge](https://img.shields.io/badge/-dangeloagustinariel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dangeloagustinariel@gmail.com)](mailto:dangeloagustinariel@gmail.com)
 
 #### About me
 I'm Agustín D'Angelo, a 21 years-old senior Systems Engineering student from 📍 Rosario, Argentina. I consider myself a proactive and curious person and I'm passionate about computers and how these enable us to build great things to improve people's lives. 
@@ -31,6 +36,3 @@ As a final project for the subject _Agile frameworks for software development_, 
 - Cloud services providers
 - Linux fundamentals
 - Infrastructure and configuration management
-
-#### Links
-<a href="https://www.linkedin.com/in/agustindangelo"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
