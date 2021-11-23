@@ -1,5 +1,3 @@
-## Hi!😄 you're welcome
-
 ## Hi! <img src="https://raw.githubusercontent.com/agustindangelo/agustindangelo/master/imgs/wave.gif" width="30px">😄 you're welcome
 
 [![Linkedin Badge](https://img.shields.io/badge/-agustindangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustindangelo/)](https://www.linkedin.com/in/agustindangelo/)
