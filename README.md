@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-agustindangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustindangelo/)](https://www.linkedin.com/in/agustindangelo/)
 [![Gmail Badge](https://img.shields.io/badge/-dangeloagustinariel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dangeloagustinariel@gmail.com)](mailto:dangeloagustinariel@gmail.com)
 
-#### About me
 I'm Agustín D'Angelo, a 21 years-old senior Systems Engineering student from 📍 Rosario, Argentina. I consider myself a proactive and curious person and I'm passionate about computers and how these enable us to build great things to improve people's lives. 
 
 Although I worked on many interesting topics during the course of my bachelor's degree, here are some projects that I highlight:
