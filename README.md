@@ -31,5 +31,7 @@ As a final project for the subject _Agile frameworks for software development_, 
 - Agile frameworks
 - Cloud engineering concepts
 - Cloud services providers
+- Systems design and architectures
+- Distributed computing
 - Linux fundamentals
 - Infrastructure and configuration management
