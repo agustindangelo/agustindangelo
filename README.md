@@ -1,4 +1,4 @@
-## Hi! <img src="https://raw.githubusercontent.com/agustindangelo/agustindangelo/master/imgs/wave.gif" width="30px">😄 you're welcome
+## Hi! 😄 you're welcome
 
 [![Linkedin Badge](https://img.shields.io/badge/-agustindangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustindangelo/)](https://www.linkedin.com/in/agustindangelo/)
 [![Gmail Badge](https://img.shields.io/badge/-dangeloagustinariel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dangeloagustinariel@gmail.com)](mailto:dangeloagustinariel@gmail.com)
@@ -17,18 +17,17 @@ Although I worked on many interesting topics during the course of my bachelor's 
 ##### 🧑‍💻 Software development projects
 - 👩‍⚕️ **Diet-tracking web app for Nutritionists**: As a final project for the Java Programming Language course, we developed a web platform so that nutritionists can track physical activity and food intakes from their patients. Technologies: Java, Javascript, MySQL, jQuery, HTML, CSS, Bootstrap. Check it out [here](https://github.com/agustindangelo/Java-UTN).
 
-- 🎨 **Freelance services marketplace _(in progress)_**:
+- 🎨 **Freelance services marketplace**:
 As a final project for the subject _Advanced Software Development Techniques and Technologies_, we developed a marketplace 
 Como trabajo  para la asignatura Técnicas y Tecnologías Avanzadas de Desarrollo de Software,
 desarrollamos una plataforma para la prestación y contratación de servicios. Technologies: Angular,
 Node, GraphQL Javascript, Typescript, MongoDB. Check out [the repo](https://github.com/GianfrancoRaselli/tp-backend).
 
-- 🎮 **Hangman Game _(in progress)_**:
+- 🎮 **Hangman Game**:
 As a final project for the subject _Agile frameworks for software development_, we developed the classical hangman game to apply Scrum, Kanban, TDD, ATDD/BDD, CI/CD and pair programming. Check it out [here](https://github.com/agustindangelo/ahorcado-tdd).
 
 #### 🌱 What I’m currently learning...
-- Continuous integration, continuous deployment and continuous delivery
-- Agile frameworks
+- Agile concepts and DevOps practices
 - Cloud engineering concepts
 - Cloud services providers
 - Systems design and architectures
