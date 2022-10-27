@@ -3,12 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-agustindangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustindangelo/)](https://www.linkedin.com/in/agustindangelo/)
 [![Gmail Badge](https://img.shields.io/badge/-dangeloagustinariel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dangeloagustinariel@gmail.com)](mailto:dangeloagustinariel@gmail.com)
 
-I'm Agustín D'Angelo, a 21 years-old senior Systems Engineering student from 📍 Rosario, Argentina. I consider myself a proactive and curious person and I'm passionate about computers and how these enable us to build great things to improve people's lives. 
+I'm Agustín D'Angelo, a 22 years-old senior Systems Engineering student from 📍 Rosario, Argentina.
 
 Although I worked on many interesting topics during the course of my bachelor's degree, here are some projects that I highlight:
 
 ##### 📊 Data-related projects
-- 📈 **Signal processing of the machinery at a chemical plant**: I worked for two years on a research project related to data analysis from industrial machinery of a chemical plant, in collaboration with the University Ilmenau Technique, Germany.
+- 📈 **Signal processing of the machinery in a chemical plant**: I worked for two years on a research project related to data analysis from industrial machinery of a chemical plant, in collaboration with the University Ilmenau Technique, Germany.
 
 - 🌾 **Crop images analysis**: I worked on a research project in which we analyzed satellite images of regional crops for the prediction of yields, in collaboration with a recognized company of digital agriculture services and the University of Maryland.
 
