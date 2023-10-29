@@ -1,10 +1,10 @@
-## Hi! 😄 you're welcome
+## Hi. You are welcome.
 
 [![Linkedin Badge](https://img.shields.io/badge/-agustindangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustindangelo/)](https://www.linkedin.com/in/agustindangelo/)
 [![Gmail Badge](https://img.shields.io/badge/-dangeloagustinariel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dangeloagustinariel@gmail.com)](mailto:dangeloagustinariel@gmail.com)
 
-I'm Agustín D'Angelo, a 23 years-old senior Systems Engineering student from 📍 Rosario, Argentina.
-
+I am Agustín D'Angelo, a 23 years-old Systems Engineer student from 📍 Rosario, Argentina.
+Currently I am working as a Test Automation Engineer for a leading US based healthcare company.
 Although I worked on many interesting topics during the course of my bachelor's degree, here are some projects that I highlight:
 
 ##### 📊 Data-related projects
