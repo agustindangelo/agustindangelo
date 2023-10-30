@@ -18,17 +18,15 @@ Although I worked on many interesting topics during the course of my bachelor's 
 - 👩‍⚕️ **Diet-tracking web app for Nutritionists**: As a final project for the Java Programming Language course, we developed a web platform so that nutritionists can track physical activity and food intakes from their patients. Technologies: Java, Javascript, MySQL, jQuery, HTML, CSS, Bootstrap. Check it out [here](https://github.com/agustindangelo/Java-UTN).
 
 - 🎨 **Freelance services marketplace**:
-As a final project for the subject _Advanced Software Development Techniques and Technologies_, we developed a marketplace 
-Como trabajo  para la asignatura Técnicas y Tecnologías Avanzadas de Desarrollo de Software,
-desarrollamos una plataforma para la prestación y contratación de servicios. Technologies: Angular,
+As a final project for the subject _Advanced Software Development Techniques and Technologies_, we developed a digital marketplace platform for freelancing and contracting of services. Technologies: Angular,
 Node, GraphQL Javascript, Typescript, MongoDB. Check out [the repo](https://github.com/GianfrancoRaselli/tp-backend).
 
 - 🎮 **Hangman Game**:
 As a final project for the subject _Agile frameworks for software development_, we developed the classical hangman game to apply Scrum, Kanban, TDD, ATDD/BDD, CI/CD and pair programming. Check it out [here](https://github.com/agustindangelo/ahorcado-tdd).
 
 #### 🌱 What I’m currently learning...
-- Agile concepts and DevOps practices
-- Cloud engineering concepts
+- Agile and DevOps practices
+- Cloud engineering
 - Cloud services providers
 - Systems design and architectures
 - Software testing
